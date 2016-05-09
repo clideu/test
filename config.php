@@ -1,0 +1,1 @@
+<?php $config["database"] = "posni123"; $config["host"]= "192.168.0.100";$config["username"]= "root"; $config["password"]= "admin";?>
